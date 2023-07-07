@@ -2,7 +2,7 @@
 I'm Video. I do programming as a hobby. Most of my important projects relate to data handling or scraping.
 
 #### Highlights
-These are projects of mine that I'm the most proud of. Usually, it's because I've put a lot of effort into them or polished them.
+These are projects of mine that I'm proud of. Usually, it's because I've put a lot of effort into them or polished them.
 
 | Project | Language | Description |
 |---------|----------|-------------|
