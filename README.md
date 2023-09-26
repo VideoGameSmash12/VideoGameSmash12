@@ -6,10 +6,10 @@ These are projects of mine that I'm proud of. Usually, it's because I've put a l
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| [**Hotbars+**](https://github.com/VideoGameSmash12/HotbarsPlus) | Java | Client mod for Minecraft 1.14.4 - 1.20.1 that expands the saved hotbar capacity to ludicrous amounts |
+| [**Hotbars+**](https://github.com/VideoGameSmash12/HotbarsPlus) | Java | Client mod for Minecraft 1.14.4 - 1.20.2 that expands the saved hotbar capacity to ludicrous amounts |
 | [**OmegaTrack**](https://github.com/VideoGameSmash12/OmegaTrack) | Java | Fork of [hhhzzzsss's EpsilonBot](https://github.com/hhhzzzsss/EpsilonBot/) that tracks players' in-game coordinates on servers that provide operator permissions and sends them to a PostgreSQL server |
 | [**rgrab**](https://github.com/VideoGameSmash12/rgrab) | Python | Script that scrapes Roblox clients from their setup servers |
-| [**WNT**](https://github.com/VideoGameSmash12/WNT) | Java | Client utility mod for Minecraft 1.19.3 - 1.20.1 that provides a lot of tools that are helpful for those who are technically inclined |
+| [**WNT**](https://github.com/VideoGameSmash12/WNT) | Java | Client utility mod for Minecraft 1.19.3 - 1.20.2 that provides a lot of tools that are helpful for those who are technically inclined |
 
 #### Metrics
 ![Metrics](/github-metrics.svg)
